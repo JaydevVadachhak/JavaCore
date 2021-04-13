@@ -6,4 +6,6 @@ All Java Core OOP Concepts Covered
 4. And finally, Start Learning.
 5. File name is given per sub topics in Java.
 
+*status of repo: This is ongoing(working) repo - many more to add...* 
+
 Go Ahead! Check it Out!
