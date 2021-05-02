@@ -2,10 +2,10 @@ All Java Core OOP Concepts Covered
 
 1. go to "src"
 2. Find Your Topic
-3. Go to particular sub-topic that folder you've choosen
+3. Go to a particular sub-topic in that folder you've chosen
 4. And finally, Start Learning.
-5. File name is given per sub topics in Java
+5. Filename is given per sub-topics in Java
 
-*status of repo: This is ongoing(working) repo - many more to add...* 
+*status of the repo: Completed* 
 
 Go Ahead! Check it Out!
